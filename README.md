@@ -12,6 +12,9 @@ About Knowledge
 + <https://tools.ietf.org/html/rfc6749> 应该有着让人更易理解的表示方式
 + ...
 
+#### Others
+
++ --> 文字冒险游戏 + visualization -->：从问题的起源开始
 
 #### Questions
 
