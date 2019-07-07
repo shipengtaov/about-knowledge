@@ -15,6 +15,7 @@ About Knowledge
 #### Others
 
 + --> 文字冒险游戏 + visualization -->：从问题的起源开始
++ debate
 
 #### Questions
 
